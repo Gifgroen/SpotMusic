@@ -1,0 +1,11 @@
+//
+//  Dev.xcconfig
+//  Spot-iOS
+//
+//  Created by Karsten Westra on 11/12/2023.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+PRODUCT_BUNDLE_IDENTIFIER = com.gifgroen.spotmusic.ios.dev
